@@ -1,17 +1,11 @@
-import edu.stanford.nlp.ie.crf.*;
 import edu.stanford.nlp.ie.AbstractSequenceClassifier;
-import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.ie.crf.CRFClassifier;
 import edu.stanford.nlp.ling.CoreAnnotations.AnswerAnnotation;
+import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.util.StringUtils;
 
-import java.io.InputStream;
-import java.net.URI;
-import java.nio.charset.Charset;
-import java.util.List;
 import java.io.IOException;
-import java.io.FileInputStream;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.util.List;
 
 
 /**
@@ -39,23 +33,23 @@ import java.nio.file.Paths;
 public class NERDemo {
 
     public static void main(String[] args) throws IOException {
-        NERDemo nerDemo = new NERDemo();
 
-        String fileName = "/nlp.txt";
 
-        try {
-            URI uri = nerDemo.getClass().getResource(fileName).toURI();
-            List<String> lines = Files.readAllLines(Paths.get(uri),
-                    Charset.defaultCharset());
+//        NERDemo nerDemo = new NERDemo();
+//        String fileName = "/nlp.txt";
 
-            for (String line : lines) {
-                System.out.println(line);
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
-//        InputStream inputStream = new FileInputStream("C:\\Users\\euj346\\Desktop\\workspace\\stanford-ner\\out\\production\\stanford-ner");
+//        try {
+//            URI uri = nerDemo.getClass().getResource(fileName).toURI();
+//            List<String> lines = Files.readAllLines(Paths.get(uri),
+//                    Charset.defaultCharset());
+//
+//            for (String line : lines) {
+////                System.out.println(line);
+//                System.out.println("\u001B[33m" + "Data captured from text file - " + "\n" + line + "\u001B[0m");
+//            }
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
 
         String serializedClassifier = "classifiers/ner-eng-ie.crf-3-all2008.ser.gz";
 
@@ -93,12 +87,9 @@ public class NERDemo {
             String s1 = "This is a string containing name of a city in USA. City name is Dublin ";
             String s2 = "School name is Stanford University, which is located in USA.";
             String s3 = "He will become a hockey player and make USA proud";
-//            List<String> lines = Files.readAllLines(Paths.get("nlp.txt"));
-//            String content = new String(Files.readAllBytes(Paths.get(inputStream)));
             System.out.println(classifier.classifyToString(s1));
             System.out.println(classifier.classifyWithInlineXML(s2));
             System.out.println(classifier.classifyToString(s3));
-            // System.out.println(classifier.classifyFile("nlp.txt"));
             System.out.println(classifier.classifyToString(s2, "xml", true));
         }
     }

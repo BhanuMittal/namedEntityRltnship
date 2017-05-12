@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company>
+	<Department>
+		<DepartmentInfo>
+			<Name>Finance</Name>
+			<Location>Headquarter</Location>
+		</DepartmentInfo>
+		<Employees>
+			<Employee>
+				<Name>Bhanu</Name>
+				<Phone>111-222-3333</Phone>
+				<Position>CEO</Position>
+			</Employee>
+		</Employees>
+	</Department>
+</Company>

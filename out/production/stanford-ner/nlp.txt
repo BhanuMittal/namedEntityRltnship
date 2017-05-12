@@ -1,0 +1,260 @@
+Voting is fundamentally a forecasting problem: voters try to predict future performance in office based on
+incomplete information about candidates. Forecast inputs combine observable professional qualifications
+with more subjective assessments of confidence and trustworthiness. In developing countries, the amount
+of information available can be quite limited. This paper explores how well voters do in predicting candidate
+performance and quality under varying degrees and types of information. It leverages a series of lab-in-thefield
+experiments in a weak media environment where ballot photos are both the first and last visual
+impression many voters have of candidates. Inferences based on candidate photos alone predict who later
+wins actual elections. Further, these inferences are better at identifying trustworthy politicians (i.e. those
+who divert fewer public resources to personal use) than a suite of professional qualifications. Candidates
+with more electable faces appear to have stronger persuasion skills, which reflect advantages in both
+physical appearance and oral communication. Neither snap judgments based on photos nor observable
+characteristics distinguish politicians along concrete measures of effort.
+__________________________
+*
+ Stanford University Graduate School of Business, 655 Knight Way, Stanford CA 94305, +1 650 725 2167,
+kecasey@stanford.edu. I thank K. Bidwell and R. Glennerster for collaboration on related projects; and M. Alsan, J.
+Bendor, E. Blankespoor, D. Broockman, A. Chandrasekhar, J. Fearon, S. Jha, D. Laitin, E. Miguel, M. Morten and S.
+Seiler for comments. I am grateful for excellent field and research assistance from A. Barnett, N. Eubank, A. Lahai,
+A. Mansaray, F. Momoh, O. Nabay, K. Parry, C. Sánchez-Martínez and Innovations for Poverty Action. I gratefully
+acknowledge funding from the Governance Initiative at J-PAL.
+1
+Introduction
+Voting is fundamentally a forecasting problem: voters try to predict future performance in office based on
+imperfect information about candidates. Forecast inputs include observable objective qualifications, like
+resume indicators of education and professional experience, as well as more intangible subjective criteria,
+like confidence and trustworthiness. There is further evidence that candidates derive rents from
+characteristics, like physical attractiveness, whose connection to productivity is questionable. Improving
+the accuracy of voter forecasts requires understanding how voters process the incomplete information
+available to them, and identifying the conditions under which their inferences distinguish high from low
+productivity types or merely promulgate inaccurate stereotypes.
+In the developing world, this forecasting challenge is more difficult because voters have less access to mass
+media and political information. Moreover, the weak institutional checks on politician behavior that
+characterize new democracies raise the stakes for correctly identifying candidates with strong innate
+competencies and integrity. My empirical setting of Sierra Leone provides a compelling case in point. It is
+a low information environment, where ballot photos are both the first and last visual impression many voters
+have of candidates. Those elected are generally free from formal scrutiny: the Members of Parliament
+(MPs) studied here, for example, face no monitoring or reporting requirements for how they spend public
+funds earmarked for the development of their constituencies.
+This paper presents results from a series of lab-in-the-field experiments that gauge the accuracy of voter
+forecasts about politician performance under different types of information in Sierra Leone. The paper
+makes two contributions. First, a pre-election lab shows that voter inferences based on candidate photos
+alone predict who later wins actual elections with accuracy greater than chance. This reproduces results
+from two seminal forecasting studies in the U.S. in a markedly different empirical context. Todorov et al.
+(2005) and Benjamin and Shapiro (2009) show that “thin slice” inferences by college students based on
+photos and video clips (respectively) accurately predict results of congressional and gubernatorial races (1-
+3). The Sierra Leone lab is distinctive in that all participants were registered voters, representative of the
+population of interest, and it was run in the weeks before the election, alleviating concerns about participant
+ex post awareness of election outcomes. The similarity of results across such distinct empirical contexts is
+notable in light of concerns that lab findings based on Western college students do not generalize to other
+populations (4), and attests to the strength of the results in the original studies, as the (non-) reproducibility
+of findings in social science has become an issue of significant concern (5).
+The second, and main, contribution is to extend the forecasting exercise to concrete measures of
+performance. I test whether these same snap judgments distinguish politicians along several quality
+dimensions, defined by what voters in Sierra Leone say they are looking for in candidates: 77% of lab
+participants say they value education, honesty (53%), hard work (45%) and persuasiveness (32%) as the
+most important qualities of elected MPs. Analysis accordingly leverages rich data on politicians’
+professional qualifications, trustworthiness in managing public funds, effort exerted holding meetings and
+participating in Parliament, and debating skill in advocating for greater funding to support the development
+of a particular sector.
+My results suggest that voter inferences under highly limited information favor candidates who look less
+good on paper, but deliver more public goods in office. First, snap judgments based on photos favor
+candidates with weaker professional qualifications, including education. Note, however, that differences in
+education among elected officials do not predict any of several measures of their subsequent performance
+in office. Second, I find that snap judgments favor politicians with stronger intangible persuasion skills. To
+gauge this, lab participants evaluated many pairs of winning and losing candidates, each advocating for a
+2
+particular sector, like education or health, to receive greater government funding. Some participants saw
+only the candidates’ photos and were told which sector they supported, others listened to audio recordings
+of the candidates arguing for their sector during public debates (no visual cue), and still others watched
+video clips of the same debates. Participants were significantly more likely to choose to fund the sector
+endorsed by the actual election winners under all three conditions. This suggests that electable faces in part
+reflect persuasive skill, which captures advantages in both physical appearance and oral communication.
+Third, I measure trustworthiness via field audits that collected data on how much of the earmarked public
+funds MPs actually spent on development projects (as opposed to personal travel or unsanctioned uses).
+When presented with many photo pairs of one high and one low performing MP, lab participants identified
+the true better performer 60% of the time. In fact, these snap judgments predict spending more accurately
+than a suite of professional qualifications. Fourth and finally, results on effort are mixed. Photo-based
+inferences favor MPs who hold fewer community meetings, but do not predict attendance or participation
+in Parliament.
+Overall, the evidence here suggests that snap judgments favor politicians who are weaker on paper (less
+educated, with worse meeting attendance records), but turn out to be of higher quality (they are more
+persuasive and trustworthy in how they manage public money). It thus appears that voters can detect key
+characteristics of effective politicians based on highly limited information sources.
+Results
+Outcome 1: Electoral Forecasting
+The first experiment (S1) establishes that inferences made by naïve lab participants in response to candidate
+photos and video clips accurately predict who wins elections, reproducing key results from American
+studies in Sierra Leone. Todorov et al. (2005) exposed naïve lab participants to photos of the two major
+party candidates competing in U.S. Senate and House races from 2000, 2002 and 2004. Participants picked
+which candidate in the pair appeared more competent, and these inferences predict the actual winner in
+71% of Senate, and 67% of House, races in the sample. Benjamin and Shapiro (2009) showed participants
+10 second silent video clips of major party candidates taken from televised debates in 58 gubernatorial
+elections from 1988 to 2002. Lab participant guesses about who actually won the race explain 20% of the
+variance in actual two party vote shares. Their lab estimates perform as well or better than several more
+traditional election forecasters, like the state of the economy. The Sierra Leone protocol combines elements
+of both studies and adapts questions to fit the new empirical context. It generates estimates that are markedly
+similar to those cited here.
+Media used in the lab cover candidates from the two major political parties—the All People’s Congress
+(APC) and the Sierra Leone People’s Party (SLPP)—competing in 12 different 2012 Parliamentary
+constituencies (S2). Photo stills and video clips were taken from pre-election debates that were hosted by a
+nonpartisan civil society organization (analyzed in (6)), converted into black and white (Figure 1).
+Enumerators administered lab tasks via tablet device during home visits in the 5 weeks preceding Election
+Day. They informed participants that the images were of real, contemporary candidates and that the order
+of the APC and SLPP candidates varied randomly across pairs.
+I sampled participants from an earlier household listing of registered voters in 40 polling centers located in
+8 of these 12 constituencies. This ensures that lab participants are representative of the voting population
+in these areas. In total, 407 individuals participated, 54% female, average age 41, and 70% had zero years
+of formal education. To reduce the risk that outside knowledge of candidates influenced participant choices
+in the lab, all analyses in this paper exclude participant evaluations of candidates from their own
+3
+constituency and any others whom they recognized. While the number of observations is large (3,581), the
+number of races covered is small (12).
+Lab participants first evaluated each candidate in a photo pair on leadership, corruption and attractiveness,
+and then guessed the candidate’s ethnic group. Participants were then shown the two photos together and
+asked “if you had to vote today, which candidate would you choose?” Similarly, for the video task
+participants watched 10 to 20 second video clips, with the sound on, of candidates speaking about which
+sector they would prioritize (if elected) for greater government funding. After each clip, participants rated
+the individual candidate on leadership, corruption, likeability and articulateness. Participants then compared
+the two and selected the one they would choose if they had to vote today. Finally, participants guessed
+which candidate in the pair belonged to the APC party. There was no specific time limit on these tasks.
+Assessments of leadership, attractiveness, likeability and party identity closely follow the U.S. protocols.
+Evaluations of ethnicity, corruption and articulateness are tailored to the Sierra Leone context. Specifically,
+ethnicity strongly influences politics: there are two large ethnic groups—the Mendes in the South and the
+Temnes in the North—which each account for roughly one third of the national population and have strong
+historical ties to the SLPP and APC parties, respectively. If photos reveal candidate ethnicity, it is important
+to determine both the role of ethnicity in electoral forecasting, and whether it raises political economy
+concerns about printing photos on ballots. Corruption is also a salient issue and the prompt for this
+assessment focuses on the actual public funds that MPs control directly. It reads, “every year, Honorables
+receive 44 million Leones [roughly US$11,000] in the constituency facilitation fund (CFF). How much do
+you think this candidate would put in his own pocket and not use for development or for trips to his
+constituency?” The local phrase used for articulateness was “sabi tok,” which means “knows how to talk
+well” and also connotes persuasiveness.
+Table 1 shows that “vote today” choices in the lab predict the subsequent election winners with probability
+greater than chance. At the individual-level, participants selected the eventual winner based on photos 55%
+of the time, which is greater than random guessing with a high degree of statistical significance (p-value <
+0.000). Collapsed to the race-level, this yields a forecast that accurately predicts 75% of the 12 races studied
+and is significantly different from chance at 90% confidence. For videos, participants chose the eventual
+winner 55% of the time, which is significantly greater than random guessing (p<0.000). This yields a
+forecast accuracy of 67% at the race level, which is not statistically distinguishable from 50%.
+Figure 2 displays the forecasting power of participant assessments of leadership ability as opposed to “vote
+today” choices. It follows Todorov et al. noting one key divergence in protocol: I use the difference (APC
+minus SLPP) in individual leadership scores, while Todorov et al. use the choice variable “which candidate
+is more competent.” Each dot represents a race-level average. The upward sloping line shows that preelection
+lab ratings of relative leadership ability positively correlate with subsequent differences in actual
+vote shares.
+Table 2 presents regression counterparts. For photo “vote today” choices, regressing the actual APC party’s
+share of the two party vote on the share of lab participants who picked the APC candidate yields a positive
+coefficient of 1.02 (standard error 0.43), which is significant at 95% confidence. Estimates for the video
+condition are qualitatively similar but not statistically distinguishable from zero. The R2
+ indicates that lab
+assessments based on photos (videos) alone explain one third (one fifth) of the total variation in vote shares,
+which is markedly similar to estimates from the U.S. labs. The coefficient on leadership in column 3
+estimates the slope of the line in Figure 2, which is positive and significant at 90% confidence.
+Regarding mechanisms, I find little evidence that forecast accuracy is driven by inferences about ideology.
+Note that 75% of lab participants say they “will definitely” vote for the MP candidate from their preferred
+4
+party. While estimates in Table 1 show that 53% of participants correctly identified which candidate was
+from the APC, these inferences do not on net enable participants to select their preferred party: APC
+supporters were statistically no more likely to “vote today” for the APC candidate after watching the video
+clips than SLPP supporters (55% versus 54%).
+Inferences about ethnicity also do not appear to explain these forecasting results. Lab participants correctly
+guessed candidate ethnicity based on photos only 14% of the time. One way to think about what might be
+a benchmark for random guessing is to compare the correct guess rate with national population shares. For
+example, Mende’s represent 32% of the national population and 27% of candidates in the sample. When
+shown photos of Mende candidates, however, lab participants only correctly identified them as such 23%
+of the time. To establish another benchmark, in a final lab task the enumerator read the name of each
+candidate aloud and asked the participant to guess that individual’s ethnic group. The percent correct based
+on names was 26%, and the nearly twofold difference in accuracy is highly statistically significant
+(p<0.000). Given that including candidate names on the ballot appears unavoidable, the addition of photos
+seems unlikely to distort voting behavior due to inferences about ethnicity.
+Finally, in contrast to many existing studies (7-11), I find that physical attractiveness, if anything, carries a
+mild electoral penalty in this context. The last column of Table 2 shows that the relative attractiveness of
+candidates negatively enters the estimation of relative vote shares. In the actual elections, the half of
+candidates judged more attractive in the photo comparisons won fewer than half of the races studied.
+The rest of this paper moves beyond replication to address new questions about whether snap judgments
+help voters, who face significant information constraints, identify better politicians.
+Outcome 2: Professional qualifications
+Several scholars raise concerns about the forecasting power of photo assessments as an indication that
+voters rely on candidate appearance as a low information heuristic. There is evidence, for example, that
+poorly informed voters who watch a lot of television respond most strongly to appealing-looking candidates
+(12); and that children, as largely uninformed and inexperienced citizens, make strikingly similar choices
+over candidate faces as adults (13). The value of high quality faces is not lost on parties, who strategically
+field challenger candidates with more competent looking faces to contest more competitive U.S.
+congressional races (14). Other studies find that applying more information or attention runs at odds with
+photo assessments: predictive power worsens when participants are asked to deliberate over their photo
+choice (15), and improves when the sound accompanying video clips is turned off (2). While the welfare
+effects of these results are difficult to assess, one key consideration is whether and how the appearance of
+competence correlates with actual competence.
+To make progress on this issue, I start by testing whether differences in lab assessments predict differences
+in the professional qualifications of candidates. Analysis extends the pairs method above to relate lab
+inferences to the relative qualifications, collected via a pre-election candidate survey, of the same two major
+party candidates competing in a given race. In separate specifications, I regress each of several
+qualifications (of the APC minus SLPP candidate) on the individual “vote today” lab choices favoring the
+APC candidate. Positive coefficient estimates would suggest that snap judgments steer voters towards more
+qualified candidates.
+Table 3 presents results. The first four rows cover previous elected office experience, previous management
+experience supervising ten or more employees, quiz score on ability to name line ministry counterparts, and
+years of schooling. Estimates suggest that, if anything, snap judgments based on photos negatively correlate
+with differences in professional qualifications: 3 of the 4 coefficients are negative, and 2 are at least
+5
+marginally significant. Similar results obtain for video inferences, with higher precision (S3). The negative
+estimate for education specifically is a potential cause for concern given that it is, by far, the most frequently
+cited quality of what participants think makes a good MP.
+The next rows reveal no robust relationship between snap judgments and other political characteristics. It
+shows null results for incumbency status; internal party competition, as measured by the number of
+candidates who competed for the party symbol during the primary stage; membership in a ruling house, or
+family that is eligible to run for paramount chief in the traditional governance system; and expert
+assessments of candidate performance during the debate that the video clips were drawn from (S2).
+Regarding demographics, there is no evidence that photos disadvantage women or young men, which is
+important given the historical marginalization of both groups in politics. The positive and marginally
+significant coefficient on gender implies that participants were more likely to “vote today” for female
+candidates. While one might interpret this as evidence for social desirability bias, note that all three of the
+female candidates in the sample won their seat. Scholars point to the disenfranchisement of young men as
+a driver of the civil war (1991 to 2002) (16). “Vote today” shares negatively (but not significantly) correlate
+with actual candidate age, providing no evidence for preferences favoring elder candidates. The age profile
+of sampled candidates was also not heavily skewed towards elders: mean of 47 years and range 33 to 67.
+Outcome 3: Persuasion skills
+The second candidate quality test evaluates whether the observed returns to electable faces capture
+intangible persuasive ability. This was implemented during a second lab experiment, which used the same
+pre-election media on candidates, but was fielded after the election (in January 2016).
+I model this experiment loosely after Mobius and Rosenblatt (2006), who decompose the beauty wage
+premium of Hamermesh and Biddle (1994) into direct taste-based discrimination by employers and an
+indirect worker confidence channel (17, 18). Their indirect channel shows how physical attractiveness lends
+confidence to workers, a trait they convey even through non-visual oral communication, and enables them
+to negotiate higher wages. The persuasion lab similarly aims to evaluate both a physical appearance
+channel, where the “looks of a leader” add legitimacy to one’s policy proposal in the eyes of others, and an
+indirect channel, where looking like a leader creates opportunities to build communication skills.
+The Sierra Leone lab covered 72 pairs of winning and losing candidates, each of whom argued for a specific
+sector to receive greater government funding during the pre-election debates. Some pairs are the actual two
+candidates in a given race, others are pairings across races (some within and others across parties). The
+modal sector advocated by candidates was education, followed by health, roads and agriculture. Lab
+protocols ask voters which of the sectors backed by the two candidates in the pair they would fund, under
+three conditions: priority sectors accompanied by candidate photos; oral recordings of the candidates’
+arguments promoting the sector, with no visual cue; and audiovisual clips of the same arguments. The audio
+and video used here cover the candidate’s entire pitch made during the debate, so are longer and more
+coherent than the video snippets used earlier for electoral forecasting.
+Enumerators introduced the task with the following script: “Each year, Parliament is responsible for
+approving the budget for the Government of Sierra Leone. Members of Parliament have the opportunity to
+influence what kinds of projects are prioritized in the country. There is a limited amount of funds, so some
+problems must receive more attention than others. I am going to show you photos [audio/video] of real
+Honorables (MPs) candidates and tell you what issue they think the government should spend more money
+on. These MPs are not from your constituency, but are from other parts of Sierra Leone.”
+6
+This post-election lab allocated many distinct tasks across a new participant pool. I sampled 399 participants
+from a household listing of registered voters conducted one month prior to the lab: 51% were female,
+average age 38, and 53% had no formal schooling. To protect against participant inferences reflecting
+knowledge of MP performance, this lab was conducted in rural areas of 4 constituencies not represented by
+any MP in the sample. Recognition rates were below 1%.
+Estimates in Table 4 suggest that candidates who subsequently won a seat are more persuasive than those
+who lost, under all three conditions. Specifically, 60.5% of lab participants selected the sector backed by
+the election winner’s photograph, which suggests that election winners have an advantage in the direct
+physical appearance channel of persuasion. Without any visual cue, 57.8% of (other) lab participants
+selected the winner’s sector based on audio arguments. This substantiates the idea that election winners
+have better oral communication skills. Both results are significantly greater than chance guessing at 99%
+confidence. The estimate for the video condition, which combines the visual and oral cues, is slightly larger
+than both of these (61.0%), but only statistically distinguishable when compared to the audio only condition
+(by 3.2 percentage points, p-value = 0.065). Results are robust to controlling for participants’ own sectoral
+preferences and partisanship (S4).
+Together these findings provide one productivity-enhancing rationale for why facial features might enter
+the voter’s forecasting model: candidates with more electable faces tend to be more persuasive
